@@ -1,0 +1,60 @@
+h1{
+	color:DarkSlateGray;
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Oswald', sans-serif;
+}
+h2{
+	font-family: Helvetica, Arial, sans-serif;
+	color: teal;
+}
+h3 {
+	color: cadetblue;
+	font-family: Helvetica, Arial, sans-serif;
+}
+h4 {
+	color: DarkGray;
+	font-family: Helvetica, Arial, sans-serif;
+}
+p {
+	color: dimgray;
+	font-family: Helvetica, Arial, sans-serif;
+}
+ul {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	font-size:20px;
+	font-family: Helvetica, Arial, sans-serif;
+	text-align: left;
+}
+li {
+	display:inline;
+	float:left;
+}
+li a{
+	display: block;
+	color: DarkSlateGray;
+	text-align:center;
+	padding:8px 10px;
+	text-decoration:none;
+}
+li a:hover {
+	background-color: Linen;
+}
+.GIS{
+	text-align:left;
+	font-family: Helvetica, Arial, sans-serif;
+}
+#header {
+	text-align: center;
+}
+.left {
+	float: left;
+}
+.right {
+	float:right;
+}
+#footer {
+	text-align:center;
+}
