@@ -1,27 +1,29 @@
+body{
+	background: 0,0,0;
+	}
 h1{
 	color:white;
 	text-align: center;
 	font-size: 50px;
-	font-family: 'Oswald', sans-serif;
-	background-color: #C63D0F;
+	font-family: "Courier New", Courier, monospace;
 }
 h2{
 	font-family: 75%, georgia, sans-serif;
-	color: #FDF3E7;
-	background-color: #3B3738;
+	color: white;
+	background: DarkCyan;
 }
 h3 {
 	color: cadetblue;
 	font-family: georgia, sans-serif;
+	background: IndianRed;
 }
 h4 {
-	color: #C63D0F;
+	color: white;
 	font-family: georgia, sans-serif;
 }
 p {
 	color: dimgray;
 	font-family: georgia, sans-serif;
-	background-color: purple;
 }
 ul {
 	list-style-type: none;
@@ -43,7 +45,7 @@ li a{
 	text-decoration:none;
 }
 li a:hover {
-	background-color: Linen;
+	background-color: LightSlateGray;
 }
 .GIS{
 	text-align:left;
