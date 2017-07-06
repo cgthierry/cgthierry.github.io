@@ -1,5 +1,5 @@
 body{
-	background: 0,0,0;
+	background: black;
 	}
 h1{
 	color:white;
@@ -55,7 +55,7 @@ li a:hover {
 	text-align:left;
 	/*font-family: georgia, sans-serif;*/
 	font-family: "Courier New", Courier, monospace;
-	
+
 }
 #header {
 	text-align: center;
