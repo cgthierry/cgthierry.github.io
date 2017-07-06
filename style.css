@@ -23,6 +23,11 @@ h4 {
 	font-family: "Courier New", Courier, monospace;
 	/*font-family: georgia, sans-serif;*/
 }
+h5 {
+	color: black;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 20px;
+}
 p {
 	color: dimgray;
 	font-family: "Courier New", Courier, monospace;
